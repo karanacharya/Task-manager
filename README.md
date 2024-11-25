@@ -34,3 +34,36 @@ Overall, the website is designed to be efficient, user-friendly, and easy to use
 
 
 
+### Using the App
+
+#### Logging In
+
+To use the task management app, follow these steps:
+
+1. **Go to the login page**: Open the https://task-manager-two-ashy.vercel.app/login website and click on the "Login" button.
+2. **Choose a login method**: You can log in using your email and password or login with Google.
+3. **Enter your credentials**: If you choose to log in with email and password, enter your registered email address and password. If you choose to log in with Google, click on the "Login with Google" button and follow the prompts to authenticate with your Google account.
+4. **Click the "Login" button**: Once you've entered your credentials, click the "Login" button to proceed.
+
+#### After Logging In
+
+Once you've successfully logged in, you will be redirected to the task management dashboard. From here, you can:
+
+1. **Create a new task**: Click on the "Add Task" button and enter the task details in the form.
+2. **View tasks**: All tasks are displayed in a grid format. You can scroll through the tasks to view their details.
+3. **Edit a task**: Click on the "Edit" button next to a task to update its details.
+4. **Delete a task**: Click on the "Delete" button next to a task to remove it from the list.
+5. **Search for tasks**: Use the search bar to find specific tasks by keyword.
+
+#### What to Expect
+
+After logging in, you can expect the following:
+
+* Your tasks will be synced with the Firebase backend, allowing you to access them from anywhere.
+* You will receive real-time updates when tasks are added, edited, or deleted.
+* You can use the app to manage your daily tasks and stay organized.
+
+
+
+
+
